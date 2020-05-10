@@ -2,7 +2,7 @@
 
 Il repository raccoglie la parte pratica del canale youtube [Bitcoin in action](https://www.youtube.com/channel/UCPsuu94QAXZ0fDYN0Zlo-RA/?sub_confirmation=1).
 
-	 				  ,.=ctE55ttt553tzs.,                               
+	 		  ,.=ctE55ttt553tzs.,                               
 	             ,,c5;z==!!::::  .::7:==it3>.,                         
 	          ,xC;z!::::::    ::::::::::::!=c33x,                      
 	        ,czz!:::::  ::;;..===:..:::   ::::!ct3.                    
