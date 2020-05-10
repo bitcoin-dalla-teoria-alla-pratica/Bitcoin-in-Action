@@ -34,7 +34,7 @@ Il repository raccoglie la parte pratica del canale youtube [Bitcoin in action](
 * 📖 [Libro Bitcoin dalla teoria alla pratica (Amazon)](https://amzn.to/2Ldym0F) 
 * 📖 [Libro Bitcoin dalla teoria alla pratica (sito ufficiale con pagamento in bitcoin o Paypal)](https://www.corsobitcoin.com/prodotto/libro-bitcoin-dalla-teoria-alla-pratica) 
 *
-*  —
+—
 * 🎥 [Video Corso Bitcoin dalla teoria alla pratica](http://bit.ly/38gGmYr) 
 * 
 —
