@@ -1,6 +1,8 @@
 # Bitcoin in Action
 
 Il repository raccoglie la parte pratica del canale youtube [Bitcoin in action](https://www.youtube.com/channel/UCPsuu94QAXZ0fDYN0Zlo-RA/?sub_confirmation=1).
+![Bitcoin in Action](https://i1.wp.com/www.corsobitcoin.com/wp-content/uploads/2020/05/Screenshot-2020-05-12-at-09.11.05.jpg?w=1206&ssl=1)
+
 
 	 		  ,.=ctE55ttt553tzs.,                               
 	             ,,c5;z==!!::::  .::7:==it3>.,                         
