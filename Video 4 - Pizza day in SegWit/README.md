@@ -17,3 +17,7 @@ ABSOLUTE_PATH_2="/Users/barno/Documents/bizantino/Bitcoin_2"
 
 Per maggiori informazioni consulare il link [https://en.bitcoin.it/wiki/Data_directory
 ](https://en.bitcoin.it/wiki/Data_directory)
+
+- Il post originale: [https://bit.ly/2TqL5RT](https://bit.ly/2TqL5RT)
+- La transazione: [https://bit.ly/3bVLWR0](https://bit.ly/2TqL5RT)
+- Le pizze: [http://heliacal.net/~solar/bitcoin/pizza](https://bit.ly/2TqL5RT) 🍕🍕
