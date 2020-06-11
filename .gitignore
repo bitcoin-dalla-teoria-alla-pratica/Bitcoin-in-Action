@@ -28,4 +28,5 @@ Temporary Items
 
 *.pem
 *.bin
-
+.btcdeb_history
+.btcdeb
