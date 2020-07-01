@@ -1,0 +1,4 @@
+Chiave pubblica compressa da utilizzare per vincere il libro
+
+031ed38602b00f062c62d677d16699cad7481086a3964e16d966a36d37b7041e60
+
