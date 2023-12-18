@@ -1,6 +1,12 @@
 # Bitcoin in Action
 
 Il repository raccoglie la parte pratica del canale youtube [Bitcoin in action](https://www.youtube.com/channel/UCPsuu94QAXZ0fDYN0Zlo-RA/?sub_confirmation=1).
+
+Dal video 13, cercherò di poter replicare il codice utilizzando un nodo regtest che potete installare tranquillamente sul vostro computer utilizzando docker
+
+* 🐳 [Nodo Regtest per Youtube](https://github.com/bitcoin-dalla-teoria-alla-pratica/bitcoin-in-action-youtube-docker) 
+
+
 ![Bitcoin in Action](https://i1.wp.com/www.corsobitcoin.com/wp-content/uploads/2020/05/Screenshot-2020-05-12-at-09.11.05.jpg?w=1206&ssl=1)
 
 * 📖 [Libro Bitcoin dalla teoria alla pratica (Amazon)](https://amzn.to/2Ldym0F) 
@@ -19,11 +25,11 @@ Il repository raccoglie la parte pratica del canale youtube [Bitcoin in action](
 * 
 —
 * ► [corsobitcoin.com](https://www.corsobitcoin.com/) 
-* ► [Twitter](https://twitter.com/satoshiwantsyou) 
-* ► [Facebook](https://www.facebook.com/satoshiwantsyou) 
+* ► [X](https://twitter.com/satoshiwantsyou) 
 * ► [Linkedin](https://www.linkedin.com/company/bitcoin-dalla-teoria-alla-pratica)
 * ► [Medium](https://medium.com/@satoshiwantsyou) 
 * ► [Instagram](https://www.instagram.com/satoshiwantsyou) 
+* ► [Threads](https://www.threads.net/@satoshiwantsyou) 
 
 —
 
